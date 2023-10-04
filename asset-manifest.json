@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Creadit_Card_details/static/css/main.508713e8.css",
+    "main.js": "/Creadit_Card_details/static/js/main.25421b9b.js",
+    "static/js/787.a85d3869.chunk.js": "/Creadit_Card_details/static/js/787.a85d3869.chunk.js",
+    "index.html": "/Creadit_Card_details/index.html",
+    "main.508713e8.css.map": "/Creadit_Card_details/static/css/main.508713e8.css.map",
+    "main.25421b9b.js.map": "/Creadit_Card_details/static/js/main.25421b9b.js.map",
+    "787.a85d3869.chunk.js.map": "/Creadit_Card_details/static/js/787.a85d3869.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.508713e8.css",
+    "static/js/main.25421b9b.js"
+  ]
+}
